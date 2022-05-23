@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selvazhaki
 - 👀 I’m interested in Software Testing
 - 🏆 ISTQB - Certified Tester Foundation Level
-- 🌱 I’m currently learning Languages and Testing
+- 🌱 I’m Upscaling Languages and Testing
 - 💞️ I’m looking to collaborate on workforce
 - 📫 How to reach me by mail selvaz.govind@gmail.com
 <!---
