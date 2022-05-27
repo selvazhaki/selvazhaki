@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selvazhaki
+- 👋 Hi, I’m @selva
 - 👀 I’m interested in Software Testing
 - 🏆 ISTQB - Certified Tester Foundation Level
 - 🌱 I’m Upscaling Languages and Testing
